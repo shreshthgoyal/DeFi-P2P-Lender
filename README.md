@@ -73,9 +73,10 @@ Screenshots of our DApp are added to [this link](https://photos.app.goo.gl/rM9hR
 
 <div id="video" />
 
-# Demonstration Video
+# Demonstration 
 
 Demonstration of our Dapp is added to [this link](https://vimeo.com/645497797).
+You can checkout the presentation [here](https://prezi.com/view/3FpSC5ii5PdE3s3mumji/).
 
 <div id="features" />
 
