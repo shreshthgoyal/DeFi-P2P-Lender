@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h1 align="center">DeFi-P2P-Lender</h1>
+  <h1 align="center">Lend3.0</h1>
   <p align="center">
   Connecting people with their money.
    <br />
